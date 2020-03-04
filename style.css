@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    color: white
+}
+
+.largeDiv{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.submit{
+    padding-bottom: 10px;
+}
+
+.test{
+    border-style: solid;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.deletebutton{
+    background-color: red;
+    margin: 10px;
+}
+
+.editbutton{
+    background-color: yellow;
+    margin: 10px;
+}
+
+.add{
+    margin: 10px
+}
+
+.buttonone{
+    margin: 10px
+}
+
+.buttontwo{
+    margin: 10px
+}
+
+.buttonthree{
+    margin: 10px
+}
+
+.buttonfour{
+    margin: 10px
+}
